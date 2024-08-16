@@ -1,9 +1,0 @@
-{
-  "formData": [
-    {
-      "type": "header",
-      "subtype": "h1",
-      "label": "Header"
-    }
-  ]
-}

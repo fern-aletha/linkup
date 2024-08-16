@@ -1,7 +1,1 @@
-{
-  "$schema": "./quiz.schema.json",
-  "quizId": 1,
-  "basePath": "/light-pass-template-1",
-  "fields": ["name", "email"],
-  "order": "random"
-}
+{"basePath":"/linkup","fields":["name","email"],"order":"random"}
